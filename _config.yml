@@ -1,7 +1,7 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://juagammor.github.io/jekyll-hw'
+url: 'http://juagammor.github.io/jekyll-hw/'
 baseurl: '/jekyll-hw/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'juagammor'
