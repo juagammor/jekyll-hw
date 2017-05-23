@@ -1,10 +1,10 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+title: JR-Uno
+description: 'JR-Uno - blog personal de inquietudes profesionales'
+url: 'http://juagammor.github.io/jekyll-hw/'
+baseurl: '/jekyll-hw/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'juagammor'
 
 author:
   name: 'JR Gamez'
