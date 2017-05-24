@@ -1,6 +1,7 @@
 ---
 title:  "Importar Jekyll con Theme desde GitHub y hacerlo accesible"
 date:   2017-05-23 14:48:00
+comments: true
 categories: [jekyll]
 tags: [jekyll]
 ---
