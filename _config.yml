@@ -1,8 +1,8 @@
 # Site settings
-title: JR-Uno
-description: 'JR-Uno - blog personal de inquietudes profesionales'
-url: 'http://juagammor.github.io/jekyll-hw/'
-baseurl: '/jekyll-hw/'
+title: JRa-Uno
+description: 'JRa-Uno - blog personal de inquietudes profesionales'
+url: 'http://juagammor.github.io/jra-uno/'
+baseurl: '/jra-uno/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'juagammor'
 
